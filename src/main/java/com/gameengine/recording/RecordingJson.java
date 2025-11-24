@@ -50,8 +50,11 @@ public final class RecordingJson {
     }
 
     public static String extractArray(String json, int startIdx) {
+        if (startIdx < 0) return "";
+        // find the first '[' at or after startIdx
         int i = startIdx;
-        if (i >= json.length() || json.charAt(i) != '[') return "";
+        while (i < json.length() && json.charAt(i) != '[') i++;
+        if (i >= json.length()) return "";
         int depth = 1;
         int begin = i + 1;
         i++;
@@ -69,5 +72,3 @@ public final class RecordingJson {
         return "";
     }
 }
-
-
