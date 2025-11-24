@@ -1,0 +1,4 @@
+{"type":"header","version":1,"w":786,"h":563,"seed":1763973338220}
+{"type":"spawn","t":0.000,"entity":{"id":"seed0","type":"seed","gx":2,"gy":13,"color":[0.000,1.000,0.000,1.0]}}
+{"type":"spawn","t":0.000,"entity":{"id":"seed1","type":"seed","gx":8,"gy":21,"color":[1.000,1.000,0.000,1.0]}}
+{"type":"spawn","t":0.000,"entity":{"id":"seed2","type":"seed","gx":2,"gy":23,"color":[0.600,0.200,1.000,1.0]}}
