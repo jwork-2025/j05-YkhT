@@ -1,0 +1,534 @@
+[ReplayDebug] spawnSeed RNG -> gx=34 gy=10 colorIdx=4 seedCounter=0 simulate=false
+[ReplayDebug] spawnSeed RNG -> gx=19 gy=15 colorIdx=5 seedCounter=1 simulate=false
+[ReplayDebug] spawnSeed RNG -> gx=20 gy=17 colorIdx=6 seedCounter=2 simulate=false
+[ReplayDebug] spawnMonster RNG -> sizeRand=5 xf=0.826 yf=0.204 speedRand=0.834 angleRand=0.766 seedCounter=3 simulate=false
+[ReplayDebug] spawnMonster RNG -> sizeRand=6 xf=0.485 yf=0.297 speedRand=0.925 angleRand=0.548 seedCounter=3 simulate=false
+[ReplayDebug] spawnMonster RNG -> sizeRand=0 xf=0.753 yf=0.861 speedRand=0.786 angleRand=0.081 seedCounter=3 simulate=false
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.004 target=(21,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(21,15) replayTime=0.000 stepAcc=0.004 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.018 target=(22,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(22,15) replayTime=0.000 stepAcc=0.018 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.009 target=(23,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,15) replayTime=0.000 stepAcc=0.009 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.011 target=(24,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(24,15) replayTime=0.000 stepAcc=0.011 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.017 target=(25,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(25,15) replayTime=0.000 stepAcc=0.017 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.005 target=(26,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(26,15) replayTime=0.000 stepAcc=0.005 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.009 target=(27,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(27,15) replayTime=0.000 stepAcc=0.009 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.029 target=(28,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,15) replayTime=0.000 stepAcc=0.029 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.002 target=(29,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(29,15) replayTime=0.000 stepAcc=0.002 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.005 target=(30,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(30,15) replayTime=0.000 stepAcc=0.005 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.012 target=(31,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(31,15) replayTime=0.000 stepAcc=0.012 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.013 target=(32,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(32,15) replayTime=0.000 stepAcc=0.013 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.002 target=(33,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(33,15) replayTime=0.000 stepAcc=0.002 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.012 target=(34,15) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(34,15) replayTime=0.000 stepAcc=0.012 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.011 target=(34,14) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(34,14) replayTime=0.000 stepAcc=0.011 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.014 target=(34,13) seedsCount=3 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) 
+[ReplayDebug] stepCheck -> no seed found at target=(34,13) replayTime=0.000 stepAcc=0.014 seedsCount=3
+[ReplayDebug] spawnSeed RNG -> gx=24 gy=8 colorIdx=6 seedCounter=3 simulate=false
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.005 target=(34,12) seedsCount=4 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) seed3:(24,8) 
+[ReplayDebug] stepCheck -> no seed found at target=(34,12) replayTime=0.000 stepAcc=0.005 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.003 target=(34,11) seedsCount=4 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) seed3:(24,8) 
+[ReplayDebug] stepCheck -> no seed found at target=(34,11) replayTime=0.000 stepAcc=0.003 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.014 target=(34,10) seedsCount=4 list=seed0:(34,10) seed1:(19,15) seed2:(20,17) seed3:(24,8) 
+[ReplayDebug] consuming seed at step elapsed=2.294 consumedId=seed0 nx=34 ny=10 bodyBefore=0 simulate=false
+[ReplayDebug] grew -> added seg at (34,11) newBodySize=1
+[ReplayDebug] spawnSeed RNG -> gx=23 gy=4 colorIdx=4 seedCounter=0 simulate=false
+[ReplayDebug] spawnSeed RNG -> gx=20 gy=24 colorIdx=3 seedCounter=1 simulate=false
+[ReplayDebug] spawnSeed RNG -> gx=20 gy=5 colorIdx=2 seedCounter=2 simulate=false
+[ReplayDebug] spawnMonster RNG -> sizeRand=1 xf=0.794 yf=0.147 speedRand=0.243 angleRand=0.749 seedCounter=3 simulate=false
+[ReplayDebug] spawnMonster RNG -> sizeRand=7 xf=0.059 yf=0.443 speedRand=0.929 angleRand=0.349 seedCounter=3 simulate=false
+[ReplayDebug] spawnMonster RNG -> sizeRand=1 xf=0.814 yf=0.228 speedRand=0.415 angleRand=0.585 seedCounter=3 simulate=false
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.007 target=(21,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(21,15) replayTime=0.000 stepAcc=0.007 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.010 target=(22,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(22,15) replayTime=0.000 stepAcc=0.010 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.014 target=(23,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,15) replayTime=0.000 stepAcc=0.014 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.003 target=(24,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(24,15) replayTime=0.000 stepAcc=0.003 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.020 target=(25,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(25,15) replayTime=0.000 stepAcc=0.020 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.000 target=(26,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(26,15) replayTime=0.000 stepAcc=0.000 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.003 target=(27,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(27,15) replayTime=0.000 stepAcc=0.003 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.011 target=(28,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,15) replayTime=0.000 stepAcc=0.011 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.013 target=(28,14) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,14) replayTime=0.000 stepAcc=0.013 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.017 target=(28,13) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,13) replayTime=0.000 stepAcc=0.017 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.014 target=(28,12) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,12) replayTime=0.000 stepAcc=0.014 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.010 target=(28,11) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,11) replayTime=0.000 stepAcc=0.010 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.013 target=(28,10) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,10) replayTime=0.000 stepAcc=0.013 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.002 target=(28,9) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,9) replayTime=0.000 stepAcc=0.002 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.010 target=(28,8) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,8) replayTime=0.000 stepAcc=0.010 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.015 target=(28,7) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,7) replayTime=0.000 stepAcc=0.015 seedsCount=3
+[ReplayDebug] spawnSeed RNG -> gx=12 gy=6 colorIdx=5 seedCounter=3 simulate=false
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.000 target=(28,6) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,6) replayTime=0.000 stepAcc=0.000 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.011 target=(28,5) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,5) replayTime=0.000 stepAcc=0.011 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.014 target=(28,4) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,4) replayTime=0.000 stepAcc=0.014 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.001 target=(28,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,3) replayTime=0.000 stepAcc=0.001 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.001 target=(27,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(27,3) replayTime=0.000 stepAcc=0.001 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.009 target=(26,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(26,3) replayTime=0.000 stepAcc=0.009 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.012 target=(25,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(25,3) replayTime=0.000 stepAcc=0.012 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.004 target=(24,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(24,3) replayTime=0.000 stepAcc=0.004 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.009 target=(23,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,3) replayTime=0.000 stepAcc=0.009 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.015 target=(23,4) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] consuming seed at step elapsed=3.135 consumedId=seed0 nx=23 ny=4 bodyBefore=0 simulate=false
+[ReplayDebug] grew -> added seg at (23,3) newBodySize=1
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.017 target=(23,5) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,5) replayTime=0.000 stepAcc=0.017 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.012 target=(23,6) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,6) replayTime=0.000 stepAcc=0.012 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.010 target=(23,7) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,7) replayTime=0.000 stepAcc=0.010 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.002 target=(23,8) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,8) replayTime=0.000 stepAcc=0.002 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.002 target=(23,9) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,9) replayTime=0.000 stepAcc=0.002 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.013 target=(22,9) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(22,9) replayTime=0.000 stepAcc=0.013 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.009 target=(21,9) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(21,9) replayTime=0.000 stepAcc=0.009 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.004 target=(20,9) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,9) replayTime=0.000 stepAcc=0.004 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.013 target=(20,8) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,8) replayTime=0.000 stepAcc=0.013 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.007 target=(20,7) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,7) replayTime=0.000 stepAcc=0.007 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.008 target=(20,6) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,6) replayTime=0.000 stepAcc=0.008 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.008 target=(20,5) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] consuming seed at step elapsed=4.568 consumedId=seed2 nx=20 ny=5 bodyBefore=1 simulate=false
+[ReplayDebug] grew -> added seg at (20,7) newBodySize=2
+[ReplayDebug] spawnSeed RNG -> gx=35 gy=25 colorIdx=3 seedCounter=4 simulate=false
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.009 target=(20,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,4) replayTime=0.000 stepAcc=0.009 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.003 target=(19,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(19,4) replayTime=0.000 stepAcc=0.003 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.004 target=(18,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(18,4) replayTime=0.000 stepAcc=0.004 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.008 target=(17,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(17,4) replayTime=0.000 stepAcc=0.008 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.010 target=(16,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(16,4) replayTime=0.000 stepAcc=0.010 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.014 target=(15,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(15,4) replayTime=0.000 stepAcc=0.014 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.013 target=(14,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(14,4) replayTime=0.000 stepAcc=0.013 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.008 target=(14,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(14,5) replayTime=0.000 stepAcc=0.008 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.010 target=(13,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(13,5) replayTime=0.000 stepAcc=0.010 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.012 target=(12,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(12,5) replayTime=0.000 stepAcc=0.012 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.013 target=(11,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,5) replayTime=0.000 stepAcc=0.013 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.020 target=(10,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(10,5) replayTime=0.000 stepAcc=0.020 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.002 target=(9,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(9,5) replayTime=0.000 stepAcc=0.002 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.004 target=(8,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(8,5) replayTime=0.000 stepAcc=0.004 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.008 target=(8,6) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(8,6) replayTime=0.000 stepAcc=0.008 seedsCount=3
+[ReplayDebug] spawnSeed RNG -> gx=26 gy=2 colorIdx=2 seedCounter=5 simulate=false
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.006 target=(8,7) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(8,7) replayTime=0.000 stepAcc=0.006 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.003 target=(9,7) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(9,7) replayTime=0.000 stepAcc=0.003 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.014 target=(10,7) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(10,7) replayTime=0.000 stepAcc=0.014 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.016 target=(11,7) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,7) replayTime=0.000 stepAcc=0.016 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.010 target=(11,6) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,6) replayTime=0.000 stepAcc=0.010 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.025 target=(11,5) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,5) replayTime=0.000 stepAcc=0.025 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.015 target=(11,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,4) replayTime=0.000 stepAcc=0.015 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.031 target=(12,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(12,4) replayTime=0.000 stepAcc=0.031 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.002 target=(13,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(13,4) replayTime=0.000 stepAcc=0.002 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.006 target=(14,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(14,4) replayTime=0.000 stepAcc=0.006 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.008 target=(15,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(15,4) replayTime=0.000 stepAcc=0.008 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.004 target=(16,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(16,4) replayTime=0.000 stepAcc=0.004 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.016 target=(17,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(17,4) replayTime=0.000 stepAcc=0.016 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.016 target=(18,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(18,4) replayTime=0.000 stepAcc=0.016 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.010 target=(19,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(19,4) replayTime=0.000 stepAcc=0.010 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.009 target=(19,3) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(19,3) replayTime=0.000 stepAcc=0.009 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.011 target=(19,2) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(19,2) replayTime=0.000 stepAcc=0.011 seedsCount=4
+[ReplayDebug] spawnSeed RNG -> gx=10 gy=27 colorIdx=3 seedCounter=6 simulate=false
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.031 target=(20,2) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,2) replayTime=0.000 stepAcc=0.031 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.009 target=(21,2) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(21,2) replayTime=0.000 stepAcc=0.009 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.005 target=(22,2) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(22,2) replayTime=0.000 stepAcc=0.005 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.005 target=(23,2) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,2) replayTime=0.000 stepAcc=0.005 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.001 target=(24,2) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(24,2) replayTime=0.000 stepAcc=0.001 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.008 target=(25,2) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(25,2) replayTime=0.000 stepAcc=0.008 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.006 target=(26,2) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] consuming seed at step elapsed=9.246 consumedId=seed5 nx=26 ny=2 bodyBefore=2 simulate=false
+[ReplayDebug] grew -> added seg at (23,2) newBodySize=3
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.002 target=(27,2) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(27,2) replayTime=0.000 stepAcc=0.002 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.003 target=(28,2) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,2) replayTime=0.000 stepAcc=0.003 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.007 target=(28,3) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,3) replayTime=0.000 stepAcc=0.007 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.027 target=(28,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,4) replayTime=0.000 stepAcc=0.027 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.011 target=(27,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(27,4) replayTime=0.000 stepAcc=0.011 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.007 target=(26,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(26,4) replayTime=0.000 stepAcc=0.007 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.024 target=(25,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(25,4) replayTime=0.000 stepAcc=0.024 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.001 target=(24,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(24,4) replayTime=0.000 stepAcc=0.001 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.031 target=(23,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,4) replayTime=0.000 stepAcc=0.031 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.004 target=(22,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(22,4) replayTime=0.000 stepAcc=0.004 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.009 target=(21,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(21,4) replayTime=0.000 stepAcc=0.009 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.011 target=(21,5) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(21,5) replayTime=0.000 stepAcc=0.011 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.001 target=(20,5) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,5) replayTime=0.000 stepAcc=0.001 seedsCount=4
+[ReplayDebug] spawnSeed RNG -> gx=17 gy=3 colorIdx=1 seedCounter=7 simulate=false
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.006 target=(19,5) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(19,5) replayTime=0.000 stepAcc=0.006 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.014 target=(18,5) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(18,5) replayTime=0.000 stepAcc=0.014 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.014 target=(17,5) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(17,5) replayTime=0.000 stepAcc=0.014 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.028 target=(16,5) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(16,5) replayTime=0.000 stepAcc=0.028 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.008 target=(15,5) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(15,5) replayTime=0.000 stepAcc=0.008 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.015 target=(15,6) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(15,6) replayTime=0.000 stepAcc=0.015 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.012 target=(14,6) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(14,6) replayTime=0.000 stepAcc=0.012 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.009 target=(13,6) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(13,6) replayTime=0.000 stepAcc=0.009 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.013 target=(12,6) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] consuming seed at step elapsed=11.893 consumedId=seed3 nx=12 ny=6 bodyBefore=3 simulate=false
+[ReplayDebug] grew -> added seg at (15,5) newBodySize=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.000 target=(11,6) seedsCount=4 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,6) replayTime=0.000 stepAcc=0.000 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.019 target=(10,6) seedsCount=4 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(10,6) replayTime=0.000 stepAcc=0.019 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.006 target=(9,6) seedsCount=4 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(9,6) replayTime=0.000 stepAcc=0.006 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.011 target=(8,6) seedsCount=4 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(8,6) replayTime=0.000 stepAcc=0.011 seedsCount=4
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.011 target=(7,6) seedsCount=4 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(7,6) replayTime=0.000 stepAcc=0.011 seedsCount=4
+[ReplayDebug] spawnSeed RNG -> gx=13 gy=20 colorIdx=5 seedCounter=8 simulate=false
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.014 target=(6,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(6,6) replayTime=0.000 stepAcc=0.014 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.017 target=(5,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(5,6) replayTime=0.000 stepAcc=0.017 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.007 target=(4,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(4,6) replayTime=0.000 stepAcc=0.007 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.009 target=(3,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(3,6) replayTime=0.000 stepAcc=0.009 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.007 target=(2,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(2,6) replayTime=0.000 stepAcc=0.007 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.003 target=(1,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(1,6) replayTime=0.000 stepAcc=0.003 seedsCount=5
+[ReplayDebug] stepCheck replayTime=0.000 stepAcc=0.007 target=(0,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(0,6) replayTime=0.000 stepAcc=0.007 seedsCount=5
+[ReplayDebug] spawnSeed RNG -> gx=23 gy=4 colorIdx=4 seedCounter=0 simulate=true
+[ReplayDebug] spawnSeed RNG -> gx=20 gy=24 colorIdx=3 seedCounter=1 simulate=true
+[ReplayDebug] spawnSeed RNG -> gx=20 gy=5 colorIdx=2 seedCounter=2 simulate=true
+[ReplayDebug] spawnMonster RNG -> sizeRand=1 xf=0.794 yf=0.147 speedRand=0.243 angleRand=0.749 seedCounter=3 simulate=true
+[ReplayDebug] spawnMonster RNG -> sizeRand=7 xf=0.059 yf=0.443 speedRand=0.929 angleRand=0.349 seedCounter=3 simulate=true
+[ReplayDebug] spawnMonster RNG -> sizeRand=1 xf=0.814 yf=0.228 speedRand=0.415 angleRand=0.585 seedCounter=3 simulate=true
+[ReplayDebug] applied spawnEvent t=0.000 id=seed0 gx=23 gy=4 replayTime=0.031 seedCounter=3
+[ReplayDebug] applied spawnEvent t=0.000 id=seed1 gx=20 gy=24 replayTime=0.031 seedCounter=3
+[ReplayDebug] applied spawnEvent t=0.000 id=seed2 gx=20 gy=5 replayTime=0.031 seedCounter=3
+[ReplayDebug] stepCheck replayTime=0.134 stepAcc=0.014 target=(21,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(21,15) replayTime=0.134 stepAcc=0.014 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.252 stepAcc=0.012 target=(22,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(22,15) replayTime=0.252 stepAcc=0.012 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.370 stepAcc=0.010 target=(23,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,15) replayTime=0.370 stepAcc=0.010 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.494 stepAcc=0.014 target=(24,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(24,15) replayTime=0.494 stepAcc=0.014 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.612 stepAcc=0.012 target=(25,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(25,15) replayTime=0.612 stepAcc=0.012 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.731 stepAcc=0.011 target=(26,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(26,15) replayTime=0.731 stepAcc=0.011 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.850 stepAcc=0.010 target=(27,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(27,15) replayTime=0.850 stepAcc=0.010 seedsCount=3
+[ReplayDebug] stepCheck replayTime=0.964 stepAcc=0.004 target=(28,15) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,15) replayTime=0.964 stepAcc=0.004 seedsCount=3
+[ReplayDebug] stepCheck replayTime=1.084 stepAcc=0.004 target=(28,14) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,14) replayTime=1.084 stepAcc=0.004 seedsCount=3
+[ReplayDebug] stepCheck replayTime=1.204 stepAcc=0.004 target=(28,13) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,13) replayTime=1.204 stepAcc=0.004 seedsCount=3
+[ReplayDebug] stepCheck replayTime=1.326 stepAcc=0.006 target=(28,12) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,12) replayTime=1.326 stepAcc=0.006 seedsCount=3
+[ReplayDebug] stepCheck replayTime=1.445 stepAcc=0.005 target=(28,11) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,11) replayTime=1.445 stepAcc=0.005 seedsCount=3
+[ReplayDebug] stepCheck replayTime=1.589 stepAcc=0.029 target=(28,10) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,10) replayTime=1.589 stepAcc=0.029 seedsCount=3
+[ReplayDebug] stepCheck replayTime=1.701 stepAcc=0.021 target=(28,9) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,9) replayTime=1.701 stepAcc=0.021 seedsCount=3
+[ReplayDebug] stepCheck replayTime=1.817 stepAcc=0.017 target=(28,8) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,8) replayTime=1.817 stepAcc=0.017 seedsCount=3
+[ReplayDebug] stepCheck replayTime=1.930 stepAcc=0.010 target=(28,7) seedsCount=3 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,7) replayTime=1.930 stepAcc=0.010 seedsCount=3
+[ReplayDebug] applied spawnEvent t=2.010 id=seed3 gx=12 gy=6 replayTime=2.022 seedCounter=3
+[ReplayDebug] spawnSeed RNG -> gx=12 gy=6 colorIdx=5 seedCounter=4 simulate=true
+[ReplayDebug] stepCheck replayTime=2.053 stepAcc=0.013 target=(28,6) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,6) replayTime=2.053 stepAcc=0.013 seedsCount=4
+[ReplayDebug] stepCheck replayTime=2.167 stepAcc=0.007 target=(28,5) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,5) replayTime=2.167 stepAcc=0.007 seedsCount=4
+[ReplayDebug] stepCheck replayTime=2.287 stepAcc=0.007 target=(28,4) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,4) replayTime=2.287 stepAcc=0.007 seedsCount=4
+[ReplayDebug] stepCheck replayTime=2.408 stepAcc=0.008 target=(28,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(28,3) replayTime=2.408 stepAcc=0.008 seedsCount=4
+[ReplayDebug] stepCheck replayTime=2.529 stepAcc=0.009 target=(27,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(27,3) replayTime=2.529 stepAcc=0.009 seedsCount=4
+[ReplayDebug] stepCheck replayTime=2.647 stepAcc=0.007 target=(26,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(26,3) replayTime=2.647 stepAcc=0.007 seedsCount=4
+[ReplayDebug] stepCheck replayTime=2.778 stepAcc=0.018 target=(25,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(25,3) replayTime=2.778 stepAcc=0.018 seedsCount=4
+[ReplayDebug] stepCheck replayTime=2.895 stepAcc=0.015 target=(24,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(24,3) replayTime=2.895 stepAcc=0.015 seedsCount=4
+[ReplayDebug] stepCheck replayTime=3.017 stepAcc=0.017 target=(23,3) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,3) replayTime=3.017 stepAcc=0.017 seedsCount=4
+[ReplayDebug] stepCheck replayTime=3.128 stepAcc=0.008 target=(23,4) seedsCount=4 list=seed0:(23,4) seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] consuming seed at step elapsed=0.000 consumedId=seed0 nx=23 ny=4 bodyBefore=0 simulate=true
+[ReplayDebug] grew -> added seg at (23,3) newBodySize=1
+[ReplayDebug] recorded destroyEvent (ignored removing) t=3.135 id=seed0 replayTime=3.159 seedCounter=5
+[ReplayDebug] stepCheck replayTime=3.247 stepAcc=0.007 target=(23,5) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,5) replayTime=3.247 stepAcc=0.007 seedsCount=3
+[ReplayDebug] stepCheck replayTime=3.364 stepAcc=0.004 target=(23,6) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,6) replayTime=3.364 stepAcc=0.004 seedsCount=3
+[ReplayDebug] stepCheck replayTime=3.490 stepAcc=0.010 target=(23,7) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,7) replayTime=3.490 stepAcc=0.010 seedsCount=3
+[ReplayDebug] stepCheck replayTime=3.609 stepAcc=0.009 target=(23,8) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,8) replayTime=3.609 stepAcc=0.009 seedsCount=3
+[ReplayDebug] stepCheck replayTime=3.731 stepAcc=0.011 target=(23,9) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,9) replayTime=3.731 stepAcc=0.011 seedsCount=3
+[ReplayDebug] stepCheck replayTime=3.855 stepAcc=0.015 target=(22,9) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(22,9) replayTime=3.855 stepAcc=0.015 seedsCount=3
+[ReplayDebug] stepCheck replayTime=3.976 stepAcc=0.016 target=(21,9) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(21,9) replayTime=3.976 stepAcc=0.016 seedsCount=3
+[ReplayDebug] stepCheck replayTime=4.093 stepAcc=0.013 target=(20,9) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,9) replayTime=4.093 stepAcc=0.013 seedsCount=3
+[ReplayDebug] stepCheck replayTime=4.205 stepAcc=0.005 target=(20,8) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,8) replayTime=4.205 stepAcc=0.005 seedsCount=3
+[ReplayDebug] stepCheck replayTime=4.347 stepAcc=0.027 target=(20,7) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,7) replayTime=4.347 stepAcc=0.027 seedsCount=3
+[ReplayDebug] stepCheck replayTime=4.463 stepAcc=0.023 target=(20,6) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,6) replayTime=4.463 stepAcc=0.023 seedsCount=3
+[ReplayDebug] recorded destroyEvent (ignored removing) t=4.568 id=seed2 replayTime=4.583 seedCounter=5
+[ReplayDebug] stepCheck replayTime=4.583 stepAcc=0.023 target=(20,5) seedsCount=3 list=seed1:(20,24) seed2:(20,5) seed3:(12,6) 
+[ReplayDebug] consuming seed at step elapsed=0.000 consumedId=seed2 nx=20 ny=5 bodyBefore=1 simulate=true
+[ReplayDebug] grew -> added seg at (20,7) newBodySize=2
+[ReplayDebug] applied spawnEvent t=4.689 id=seed4 gx=35 gy=25 replayTime=4.705 seedCounter=5
+[ReplayDebug] spawnSeed RNG -> gx=35 gy=25 colorIdx=3 seedCounter=5 simulate=true
+[ReplayDebug] stepCheck replayTime=4.705 stepAcc=0.025 target=(20,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,4) replayTime=4.705 stepAcc=0.025 seedsCount=3
+[ReplayDebug] stepCheck replayTime=4.826 stepAcc=0.026 target=(19,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(19,4) replayTime=4.826 stepAcc=0.026 seedsCount=3
+[ReplayDebug] stepCheck replayTime=4.943 stepAcc=0.023 target=(18,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(18,4) replayTime=4.943 stepAcc=0.023 seedsCount=3
+[ReplayDebug] stepCheck replayTime=5.063 stepAcc=0.023 target=(17,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(17,4) replayTime=5.063 stepAcc=0.023 seedsCount=3
+[ReplayDebug] stepCheck replayTime=5.183 stepAcc=0.023 target=(16,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(16,4) replayTime=5.183 stepAcc=0.023 seedsCount=3
+[ReplayDebug] stepCheck replayTime=5.303 stepAcc=0.023 target=(15,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(15,4) replayTime=5.303 stepAcc=0.023 seedsCount=3
+[ReplayDebug] stepCheck replayTime=5.424 stepAcc=0.024 target=(14,4) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(14,4) replayTime=5.424 stepAcc=0.024 seedsCount=3
+[ReplayDebug] stepCheck replayTime=5.544 stepAcc=0.024 target=(14,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(14,5) replayTime=5.544 stepAcc=0.024 seedsCount=3
+[ReplayDebug] stepCheck replayTime=5.664 stepAcc=0.024 target=(13,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(13,5) replayTime=5.664 stepAcc=0.024 seedsCount=3
+[ReplayDebug] stepCheck replayTime=5.785 stepAcc=0.025 target=(12,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(12,5) replayTime=5.785 stepAcc=0.025 seedsCount=3
+[ReplayDebug] stepCheck replayTime=5.905 stepAcc=0.025 target=(11,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,5) replayTime=5.905 stepAcc=0.025 seedsCount=3
+[ReplayDebug] stepCheck replayTime=6.026 stepAcc=0.026 target=(10,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(10,5) replayTime=6.026 stepAcc=0.026 seedsCount=3
+[ReplayDebug] stepCheck replayTime=6.147 stepAcc=0.027 target=(9,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(9,5) replayTime=6.147 stepAcc=0.027 seedsCount=3
+[ReplayDebug] stepCheck replayTime=6.264 stepAcc=0.024 target=(8,5) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(8,5) replayTime=6.264 stepAcc=0.024 seedsCount=3
+[ReplayDebug] stepCheck replayTime=6.385 stepAcc=0.025 target=(8,6) seedsCount=3 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) 
+[ReplayDebug] stepCheck -> no seed found at target=(8,6) replayTime=6.385 stepAcc=0.025 seedsCount=3
+[ReplayDebug] applied spawnEvent t=6.400 id=seed5 gx=26 gy=2 replayTime=6.415 seedCounter=6
+[ReplayDebug] spawnSeed RNG -> gx=26 gy=2 colorIdx=2 seedCounter=6 simulate=true
+[ReplayDebug] stepCheck replayTime=6.489 stepAcc=0.009 target=(8,7) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(8,7) replayTime=6.489 stepAcc=0.009 seedsCount=4
+[ReplayDebug] stepCheck replayTime=6.610 stepAcc=0.010 target=(9,7) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(9,7) replayTime=6.610 stepAcc=0.010 seedsCount=4
+[ReplayDebug] stepCheck replayTime=6.728 stepAcc=0.008 target=(10,7) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(10,7) replayTime=6.728 stepAcc=0.008 seedsCount=4
+[ReplayDebug] stepCheck replayTime=6.848 stepAcc=0.008 target=(11,7) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,7) replayTime=6.848 stepAcc=0.008 seedsCount=4
+[ReplayDebug] stepCheck replayTime=6.966 stepAcc=0.006 target=(11,6) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,6) replayTime=6.966 stepAcc=0.006 seedsCount=4
+[ReplayDebug] stepCheck replayTime=7.087 stepAcc=0.007 target=(11,5) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,5) replayTime=7.087 stepAcc=0.007 seedsCount=4
+[ReplayDebug] stepCheck replayTime=7.204 stepAcc=0.004 target=(11,4) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,4) replayTime=7.204 stepAcc=0.004 seedsCount=4
+[ReplayDebug] stepCheck replayTime=7.321 stepAcc=0.001 target=(11,3) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,3) replayTime=7.321 stepAcc=0.001 seedsCount=4
+[ReplayDebug] stepCheck replayTime=7.460 stepAcc=0.020 target=(12,3) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(12,3) replayTime=7.460 stepAcc=0.020 seedsCount=4
+[ReplayDebug] stepCheck replayTime=7.568 stepAcc=0.008 target=(13,3) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(13,3) replayTime=7.568 stepAcc=0.008 seedsCount=4
+[ReplayDebug] stepCheck replayTime=7.683 stepAcc=0.003 target=(14,3) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(14,3) replayTime=7.683 stepAcc=0.003 seedsCount=4
+[ReplayDebug] stepCheck replayTime=7.828 stepAcc=0.028 target=(15,3) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(15,3) replayTime=7.828 stepAcc=0.028 seedsCount=4
+[ReplayDebug] stepCheck replayTime=7.943 stepAcc=0.023 target=(16,3) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(16,3) replayTime=7.943 stepAcc=0.023 seedsCount=4
+[ReplayDebug] stepCheck replayTime=8.057 stepAcc=0.017 target=(17,3) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(17,3) replayTime=8.057 stepAcc=0.017 seedsCount=4
+[ReplayDebug] stepCheck replayTime=8.177 stepAcc=0.017 target=(18,3) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(18,3) replayTime=8.177 stepAcc=0.017 seedsCount=4
+[ReplayDebug] stepCheck replayTime=8.293 stepAcc=0.013 target=(18,2) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(18,2) replayTime=8.293 stepAcc=0.013 seedsCount=4
+[ReplayDebug] stepCheck replayTime=8.407 stepAcc=0.007 target=(18,1) seedsCount=4 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) 
+[ReplayDebug] stepCheck -> no seed found at target=(18,1) replayTime=8.407 stepAcc=0.007 seedsCount=4
+[ReplayDebug] applied spawnEvent t=8.428 id=seed6 gx=10 gy=27 replayTime=8.438 seedCounter=7
+[ReplayDebug] spawnSeed RNG -> gx=10 gy=27 colorIdx=3 seedCounter=7 simulate=true
+[ReplayDebug] stepCheck replayTime=8.528 stepAcc=0.008 target=(19,1) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(19,1) replayTime=8.528 stepAcc=0.008 seedsCount=5
+[ReplayDebug] stepCheck replayTime=8.649 stepAcc=0.009 target=(20,1) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,1) replayTime=8.649 stepAcc=0.009 seedsCount=5
+[ReplayDebug] stepCheck replayTime=8.768 stepAcc=0.008 target=(21,1) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(21,1) replayTime=8.768 stepAcc=0.008 seedsCount=5
+[ReplayDebug] stepCheck replayTime=8.891 stepAcc=0.011 target=(22,1) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(22,1) replayTime=8.891 stepAcc=0.011 seedsCount=5
+[ReplayDebug] stepCheck replayTime=9.007 stepAcc=0.007 target=(23,1) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,1) replayTime=9.007 stepAcc=0.007 seedsCount=5
+[ReplayDebug] stepCheck replayTime=9.124 stepAcc=0.004 target=(24,1) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(24,1) replayTime=9.124 stepAcc=0.004 seedsCount=5
+[ReplayDebug] stepCheck replayTime=9.245 stepAcc=0.005 target=(25,1) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(25,1) replayTime=9.245 stepAcc=0.005 seedsCount=5
+[ReplayDebug] recorded destroyEvent (ignored removing) t=9.246 id=seed5 replayTime=9.275 seedCounter=8
+[ReplayDebug] stepCheck replayTime=9.360 stepAcc=0.000 target=(26,1) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(26,1) replayTime=9.360 stepAcc=0.000 seedsCount=5
+[ReplayDebug] stepCheck replayTime=9.508 stepAcc=0.028 target=(27,1) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(27,1) replayTime=9.508 stepAcc=0.028 seedsCount=5
+[ReplayDebug] stepCheck replayTime=9.626 stepAcc=0.026 target=(27,2) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(27,2) replayTime=9.626 stepAcc=0.026 seedsCount=5
+[ReplayDebug] stepCheck replayTime=9.750 stepAcc=0.030 target=(27,3) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(27,3) replayTime=9.750 stepAcc=0.030 seedsCount=5
+[ReplayDebug] stepCheck replayTime=9.860 stepAcc=0.020 target=(26,3) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(26,3) replayTime=9.860 stepAcc=0.020 seedsCount=5
+[ReplayDebug] stepCheck replayTime=9.978 stepAcc=0.018 target=(25,3) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(25,3) replayTime=9.978 stepAcc=0.018 seedsCount=5
+[ReplayDebug] stepCheck replayTime=10.100 stepAcc=0.020 target=(24,3) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(24,3) replayTime=10.100 stepAcc=0.020 seedsCount=5
+[ReplayDebug] stepCheck replayTime=10.203 stepAcc=0.003 target=(23,3) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(23,3) replayTime=10.203 stepAcc=0.003 seedsCount=5
+[ReplayDebug] stepCheck replayTime=10.341 stepAcc=0.021 target=(22,3) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(22,3) replayTime=10.341 stepAcc=0.021 seedsCount=5
+[ReplayDebug] stepCheck replayTime=10.448 stepAcc=0.008 target=(21,3) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(21,3) replayTime=10.448 stepAcc=0.008 seedsCount=5
+[ReplayDebug] stepCheck replayTime=10.567 stepAcc=0.007 target=(20,3) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,3) replayTime=10.567 stepAcc=0.007 seedsCount=5
+[ReplayDebug] stepCheck replayTime=10.689 stepAcc=0.009 target=(20,4) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(20,4) replayTime=10.689 stepAcc=0.009 seedsCount=5
+[ReplayDebug] stepCheck replayTime=10.811 stepAcc=0.011 target=(19,4) seedsCount=5 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) 
+[ReplayDebug] stepCheck -> no seed found at target=(19,4) replayTime=10.811 stepAcc=0.011 seedsCount=5
+[ReplayDebug] applied spawnEvent t=10.851 id=seed7 gx=17 gy=3 replayTime=10.871 seedCounter=8
+[ReplayDebug] spawnSeed RNG -> gx=17 gy=3 colorIdx=1 seedCounter=8 simulate=true
+[ReplayDebug] stepCheck replayTime=10.927 stepAcc=0.007 target=(18,4) seedsCount=6 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(18,4) replayTime=10.927 stepAcc=0.007 seedsCount=6
+[ReplayDebug] stepCheck replayTime=11.047 stepAcc=0.007 target=(17,4) seedsCount=6 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(17,4) replayTime=11.047 stepAcc=0.007 seedsCount=6
+[ReplayDebug] stepCheck replayTime=11.164 stepAcc=0.004 target=(16,4) seedsCount=6 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(16,4) replayTime=11.164 stepAcc=0.004 seedsCount=6
+[ReplayDebug] stepCheck replayTime=11.281 stepAcc=0.001 target=(15,4) seedsCount=6 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(15,4) replayTime=11.281 stepAcc=0.001 seedsCount=6
+[ReplayDebug] stepCheck replayTime=11.430 stepAcc=0.030 target=(15,5) seedsCount=6 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(15,5) replayTime=11.430 stepAcc=0.030 seedsCount=6
+[ReplayDebug] stepCheck replayTime=11.521 stepAcc=0.001 target=(15,6) seedsCount=6 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(15,6) replayTime=11.521 stepAcc=0.001 seedsCount=6
+[ReplayDebug] stepCheck replayTime=11.641 stepAcc=0.001 target=(14,6) seedsCount=6 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(14,6) replayTime=11.641 stepAcc=0.001 seedsCount=6
+[ReplayDebug] stepCheck replayTime=11.787 stepAcc=0.027 target=(13,6) seedsCount=6 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(13,6) replayTime=11.787 stepAcc=0.027 seedsCount=6
+[ReplayDebug] recorded destroyEvent (ignored removing) t=11.893 id=seed3 replayTime=11.904 seedCounter=9
+[ReplayDebug] stepCheck replayTime=11.904 stepAcc=0.024 target=(12,6) seedsCount=6 list=seed1:(20,24) seed3:(12,6) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] consuming seed at step elapsed=0.000 consumedId=seed3 nx=12 ny=6 bodyBefore=2 simulate=true
+[ReplayDebug] grew -> added seg at (15,6) newBodySize=3
+[ReplayDebug] stepCheck replayTime=12.022 stepAcc=0.022 target=(11,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(11,6) replayTime=12.022 stepAcc=0.022 seedsCount=5
+[ReplayDebug] stepCheck replayTime=12.143 stepAcc=0.023 target=(10,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(10,6) replayTime=12.143 stepAcc=0.023 seedsCount=5
+[ReplayDebug] stepCheck replayTime=12.263 stepAcc=0.023 target=(9,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(9,6) replayTime=12.263 stepAcc=0.023 seedsCount=5
+[ReplayDebug] stepCheck replayTime=12.381 stepAcc=0.021 target=(8,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(8,6) replayTime=12.381 stepAcc=0.021 seedsCount=5
+[ReplayDebug] stepCheck replayTime=12.499 stepAcc=0.019 target=(7,6) seedsCount=5 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) 
+[ReplayDebug] stepCheck -> no seed found at target=(7,6) replayTime=12.499 stepAcc=0.019 seedsCount=5
+[ReplayDebug] applied spawnEvent t=12.562 id=seed8 gx=13 gy=20 replayTime=12.589 seedCounter=9
+[ReplayDebug] spawnSeed RNG -> gx=13 gy=20 colorIdx=5 seedCounter=9 simulate=true
+[ReplayDebug] stepCheck replayTime=12.616 stepAcc=0.016 target=(6,6) seedsCount=6 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(6,6) replayTime=12.616 stepAcc=0.016 seedsCount=6
+[ReplayDebug] stepCheck replayTime=12.732 stepAcc=0.012 target=(5,6) seedsCount=6 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(5,6) replayTime=12.732 stepAcc=0.012 seedsCount=6
+[ReplayDebug] stepCheck replayTime=12.854 stepAcc=0.014 target=(4,6) seedsCount=6 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(4,6) replayTime=12.854 stepAcc=0.014 seedsCount=6
+[ReplayDebug] stepCheck replayTime=12.978 stepAcc=0.018 target=(3,6) seedsCount=6 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(3,6) replayTime=12.978 stepAcc=0.018 seedsCount=6
+[ReplayDebug] stepCheck replayTime=13.094 stepAcc=0.014 target=(2,6) seedsCount=6 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(2,6) replayTime=13.094 stepAcc=0.014 seedsCount=6
+[ReplayDebug] stepCheck replayTime=13.215 stepAcc=0.015 target=(1,6) seedsCount=6 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(1,6) replayTime=13.215 stepAcc=0.015 seedsCount=6
+[ReplayDebug] stepCheck replayTime=13.337 stepAcc=0.017 target=(0,6) seedsCount=6 list=seed1:(20,24) seed4:(35,25) seed5:(26,2) seed6:(10,27) seed7:(17,3) seed8:(13,20) 
+[ReplayDebug] stepCheck -> no seed found at target=(0,6) replayTime=13.337 stepAcc=0.017 seedsCount=6

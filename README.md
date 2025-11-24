@@ -1,56 +1,85 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/iHSjCEgj)
 # J05
 
-本版本采用 LWJGL + OpenGL 实现纯 GPU 渲染，窗口与输入基于 GLFW，文本渲染通过 AWT 字体离屏生成纹理后在 OpenGL 中批量绘制。
+游戏视频已上传小破站（见链接https://www.bilibili.com/video/BV1RuUGByEE7/）。
 
+---
 
-## 核心类型与概念
+  # J05 — HuluSnake（含录制/回放）
 
-- **Scene（场景）**：一组 `GameObject` 的容器，负责生命周期（`initialize/update/render/clear`）与场景间切换。示例：`MenuScene`, `GameScene`, `ReplayScene`。
-- **GameObject（游戏对象）**：由多个 `Component` 组成的实体，管理自身更新与渲染委托。支持自定义 `render()`（如玩家外观组合）。
-- **Component（组件）**：面向数据/单体行为的可组合单元，例如：
-  - `TransformComponent`：位置/旋转/缩放（本项目主要使用位置与尺寸）
-  - `PhysicsComponent`：速度/摩擦/运动学数据（行为由 `PhysicsSystem` 统一处理）
-  - `RenderComponent`：基础形状绘制（矩形/圆等，颜色与尺寸）
-- **System（系统）**：面向“过程”的批处理逻辑，跨对象统一执行。例如 `PhysicsSystem` 负责所有带 `PhysicsComponent` 的对象物理更新。并行物理计算通过 `ExecutorService` 线程池实现，按批处理提升多核利用。
-- **IRenderer/GPURenderer**：渲染后端抽象与 LWJGL 实现，负责窗口/上下文/绘制 API 封装，文本纹理缓存与绘制。
-- **EntityFactory**：常用外观/组合的建造器（如 Player、AI 外观），便于游戏与回放共享同一套“预制”。
+  本仓库基于课程示例实现了一个简易的“贪吃葫芦（Hulu Snake）”游戏，并扩展了存档与回放功能。项目采用 LWJGL + OpenGL 做渲染，窗口与输入基于 GLFW；回放支持两种模式：基于关键帧（JSONL）的可视回放与基于 RNG seed + 输入事件的 simulation 回放。
 
+  目录说明：
 
-## 游戏录制/回放机制
+  - `src/main/java`：全部源码（引擎 + 游戏 + 回放/录制模块）
+  - `recordings/`：默认录制输出目录（JSONL，每行为一个事件/关键帧）
+  - `compile.sh` / `run.sh`：Bash 下的编译与运行脚本
+  - `README.md`：本文件
 
-- **存储抽象**：`RecordingStorage` 定义录制的读/写/列举接口，默认实现 `FileRecordingStorage`（JSONL 文件）。
-- **录制服务**：`RecordingService` 在运行时异步写 JSONL 行：
-  - header：窗口大小/版本
-  - input：关键输入事件（just pressed）
-  - keyframe：周期关键帧（对象位置与可选渲染外观 `rt/w/h/color`）
-  - 采用“暖机 + 周期写入 + 结束强制写入”的策略，避免空关键帧
-- **回放场景**：`ReplayScene` 读取 JSONL，解析为 keyframe 列表，按时间在相邻关键帧间做线性插值，使用 `EntityFactory`/`RenderComponent` 恢复外观并渲染。
+  ## 核心概念（快速回顾）
 
+  - Scene：场景生命周期管理（`initialize/update/render/clear`），示例：`MenuScene`, `HuluSnakeScene`, `ReplayScene`。
+  - GameObject：实体，可组合 Component（如 `TransformComponent`、`RenderComponent` 等）。
+  - RecordingStorage：存储抽象（读/写/列举），默认实现为 `FileRecordingStorage`（JSONL）。
+  - RecordingService：负责采样输入、周期记录关键帧并异步写入 storage。
+  - ReplayScene：解析 JSONL，按时间插值重建对象并渲染；若 recording 包含 RNG seed，可使用 simulation 模式更精确地复现游戏逻辑。
 
-## 编译与运行
+  ## 录制格式简介
 
-1) 下载 LWJGL 依赖与原生库（按平台自动处理）
+  - 每一行是一个 JSON 对象，常见 `type`：`header` / `input` / `keyframe` / `spawn` / `destroy`。
+  - `header`：包含版本、窗口宽高与可选 `seed`（用于 simulation 回放）。
+  - `input`：记录按键 press/release 以及时间戳 `t`。
+  - `keyframe`：周期记录实体的 `id,x,y,rt,w,h,color`（render info 可选），用于插值渲染。
+  - `spawn` / `destroy`：记录对象生成/销毁事件，simulation 模式会参考这些事件恢复逻辑。
 
-```bash
-./download_lwjgl.sh
-```
+  实现要点：`RecordingService` 使用队列异步写入文件；`ReplayScene` 对 keyframe 做排序与时间归一化，并提供线性和“曼哈顿”插值，以保证链式实体（如蛇身）视觉稳定性。
 
-2) 编译并启动（脚本会自动编译 src/main/java 下所有源码并运行）
+  ## 编译与运行（Bash / Linux / macOS）
 
-```bash
-./run.sh
-```
+  1) （可选）如果需要 LWJGL 本机库：
 
+  ```bash
+  ./download_lwjgl.sh
+  ```
 
-## 作业要求
+  2) 编译并运行（脚本会收集 `src/main/java` 下所有源码并编译，然后运行 HuluSnake）：
 
-- 参考本仓库代码，完善你自己的游戏：
- 
-- 为你的游戏设计并实现“存档与回放”功能：
-  - 存档：定义存储抽象（文件/网络/内存均可），录制关键帧 + 输入/事件
-  - 回放：读取存档，恢复对象状态并插值渲染，保证外观与行为可见且稳定
+  ```bash
+  ./run.sh
+  ```
 
-提示：请尽量保持模块解耦（渲染/输入/逻辑/存储）。
+  说明：`compile.sh` 会生成 `build/sources_compile.txt`（源码列表），并使用 `javac -encoding UTF-8 -d build/classes @build/sources_compile.txt` 编译。
 
-**重要提醒：尽量手写代码，不依赖自动生成，考试会考！**
+  ## 在 Windows（PowerShell）下编译与运行
+
+  在 PowerShell 中可执行以下命令（在项目根目录）：
+
+  ```powershell
+    # 清理并创建输出目录
+    Remove-Item -Recurse -Force .\build\classes -ErrorAction SilentlyContinue
+    New-Item -ItemType Directory -Force -Path .\build\classes | Out-Null
+
+    # 编译所有源码为 UTF-8
+    $srcs = Get-ChildItem -Path .\src\main\java -Recurse -Filter *.java | Select-Object -ExpandProperty FullName
+    javac -encoding UTF-8 -d .\build\classes $srcs
+
+    # 编译成功再运行
+    if ($LASTEXITCODE -eq 0) {
+        java -cp .\build\classes com.gameengine.example.HuluSnake
+    } else {
+        Write-Error '编译失败'
+    }
+  ```
+
+  注意：若出现 `UnsatisfiedLinkError` 之类的本机库错误，请确保 LWJGL 的 jars 与 native 库已按说明就绪，或使用 `-Djava.library.path` 指定 native 路径。
+
+  ## 回放验证
+
+  1) 手动录制：运行游戏并使用“开始录制”（或打开自动录制），完成一些操作后退出，录制文件会在 `recordings/` 中生成（`.jsonl`）。
+  2) 文件检查：打开 `.jsonl`，应包含 `header`、若干 `input`、`keyframe`、以及 `spawn`/`destroy` 行。检查数字是否使用小数点 `.`（locale 影响可能导致解析问题）。
+  3) 回放：可通过菜单进入回放，或使用命令行运行 `ReplayTest`：
+
+  ```bash
+  java -cp build/classes com.gameengine.example.ReplayTest recordings/hulusnake-<timestamp>.jsonl
+  ```
+
